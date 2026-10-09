@@ -1,6 +1,6 @@
-div align="center">
 
-# 🏭✨ DEFECTLENS
+
+# 🏭DEFECTLENS
 ### **AI-Powered Visual Quality Inspection & Predictive Maintenance Platform**
 #### *See the defect. Trace the evidence. Protect production.*
 

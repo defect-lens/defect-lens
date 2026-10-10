@@ -37,8 +37,6 @@ Manufacturing quality is not a single checkpoint. It is a continuous story told 
 | Root-cause support | Connect relevant records and present possible contributing factors |
 | Maintenance guidance | Surface evidence-informed suggestions for qualified human review |
 
-> ⚠️ **Reality check:** This README describes the intended architecture and proposed workflows. A library, page, model, endpoint, or deployment mentioned here should only be described as implemented after it has been built and verified in the repository.
-
 ---
 
 ## 🗺️ Table of Contents
